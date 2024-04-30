@@ -1,0 +1,19 @@
+h1,h2,h3,h4{
+    font-family: 'EB Garamond';
+}
+p,li{
+    font-family: 'Inter';
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.hidden{
+    display: none;
+    opacity: 0;
+}
+a{
+    text-decoration: none;
+    color: $upperbg;
+}
